@@ -1,7 +1,10 @@
 # Instruction to run the project on your local machine
 
-### `Unzip`
-First download and unzip the file
+### `Download || Clone`
+First download or clone the project.
+
+### `npm install`
+open the project folder with VS Code and type npm install in the terminal to install the packages.
 
 ### `npm start`
-open the project folder with VS Code and type 'npm start' in the terminal to run the project. 
+Type 'npm start' in the terminal to run the project. 
